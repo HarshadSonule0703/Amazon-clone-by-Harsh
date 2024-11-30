@@ -1,4 +1,22 @@
 *{
     margin: 0px;
     padding: 0px;
+    font-family: Arial;
+    border: border-box;
+}
+.navbar{
+    height: 60px;
+    background-color: #0F1111;
+    color: white;
+}
+.navlogo{
+    height: 50px;
+    width: 100px;
+    background-color: white;
+    background-image: url("images/amazon_logo.png");
+}
+.logo{
+    background-image: url("images/amazon_logo.png");
+    height: 50px;
+    width: 100%;
 }
